@@ -32,7 +32,7 @@ house. I sit down at my computer. Yeah. Say, okay, what am I tackling this
 morning?
 **Michaela:** [00:02:01] Okay. Yeah. So it was really exciting. And would you 
 describe your role a little bit like a developer relations or a developer 
-advocacy role as well? It sounds for me a little bit like that. 
+advocacy role as well? It sounds for me a little bit like that.
 **Laurie:** [00:02:13] Um, so yeah, there are some similarities, there are 
 certainly some overlap in terms of the fact that, you know, we're an open source 
 project.
